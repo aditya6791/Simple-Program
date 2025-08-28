@@ -1,7 +1,7 @@
 #include<math.h>
 int main()
 {
-    float a,b,c,d;
+    float a,d;
     float b=9/5.0;
     float c=32.0;
     scanf("%f",&a);
